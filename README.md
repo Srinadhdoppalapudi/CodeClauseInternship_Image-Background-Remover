@@ -3,7 +3,7 @@
 This is a lightweight and user-friendly Image Background Remover built using JavaScript, HTML, and CSS. The application allows users to easily remove backgrounds from images, making it useful for graphic designers, photo editors, or anyone who wants to extract the foreground object from an image quickly.
 
 # How to Use 
-1) Clone the repository: git clone https://github.com/yourusername/image-background-remover.git
+1) Clone the repository: git clone https://github.com/Srinadhdoppalapudi/CodeClauseInternship_Image-Background-Remover.git
 2) Open index.html in your web browser.
 3) Click the "Upload Image" button to select an image from your device.
 4) Use the cropping and adjustment tools to refine the selection.
